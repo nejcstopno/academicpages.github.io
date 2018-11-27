@@ -1,6 +1,6 @@
 ---
 title: "Microbial interactions and dynamics in the phyllosphere of bioenergy crops"
-excerpt: "<br/><img src='/images/rhizotrone.JPG'>"
+excerpt: ""
 collection: research
 ---
 
