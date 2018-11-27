@@ -57,8 +57,9 @@ Talks
   
 Teaching and Mentoring
 ======
-|Systemic microbiology (Lab course, UZH)|2011 – 2012| 
-|Molecular biology and Microbiology (Lab course, UZH)|2011 – 2013|
+Systemic microbiology (Lab course, UZH)              | 2011 – 2012
+=====================================================|============
+Molecular biology and Microbiology (Lab course, UZH) | 2011 – 2013
 
 Mentoring undergraduate students			 
 |Karly Kruger (MSU)|2018-present|
