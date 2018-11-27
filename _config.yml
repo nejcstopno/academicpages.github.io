@@ -220,7 +220,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
       type: research
