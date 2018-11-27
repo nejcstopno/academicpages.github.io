@@ -32,12 +32,22 @@ Work experience
   * University of Ljubljana
   * Supervisor: Ines Mandic-Mulec
 
-Publications
+Peer-reviewed publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Pre-prints and manuscripts in prepreration
+====== 
+
+* Keara L Grady#, Jackson W Sorensen#, <b>Nejc Stopnisek</b>#, Ashley Shade. <i>Assembly and seasonality of core phyllosphere microbiota on perennial biofuel crops.</i> bioRxiv, https://doi.org/10.1101/446369 (equal contribution #)  (in review at Nature Communications)
+
+* <b>N Stopnisek</b>, M Dong, F von Netzer, N Elliot, YM Seah, J Hellerstein, K Hillesland, M Auer, P Walian, L Wu, J Zhao, S Turkarslan, M Biggin, N Baliga and D Stahl. “Functional characterization of adaptive mutations contributing to the improved productivity of a nascent microbial mutualism”. 
+
+* Turkarslan S, <b>Stopnisek N</b>, Thompson A, Arens N, Hillesland K, Hardwicke J, Stahl DA, and Baliga NS. "Interspecies interactions during laboratory evolution of obligate syntrophic community."
+
+* <b>N Stopnisek</b>, B Bezemek, A Shade. “The common bean (_Phaseolus vulgaris_ L.) core rhizosphere microbiota is well defined and abundant regardless of the US bean growing region.” 
   
 Talks
 ======
@@ -45,11 +55,17 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching and Mentoring
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+|Systemic microbiology (Lab course, UZH)|2011 – 2012| 
+|Molecular biology and Microbiology (Lab course, UZH)|2011 – 2013|
+
+Mentoring undergraduate students			 
+|Karly Kruger (MSU)|2018-present|
+|Blake Bezemek (MSU)|2017-present|
+|Wassem Syed (MSU)|2017-2018|
+|Anjali Rupela (UW)|2016-2017|
+
 
 Awarded grants/fellowships
 ======
