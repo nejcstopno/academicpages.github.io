@@ -69,7 +69,7 @@ Service and memberships
 * Member of British Ecological Society
 * Member of Slovenian Microbiological Society
 
-* Reviewer for: ISME Journal, Applied and Environmental Microbiology, Soil Biology and Biochemistry, Microbial Ecology 
+* Reviewer for: The ISME Journal (1), Soil Biology and Biochemistry (2), Applied and Environmental Microbiology (1), FEMS Microbiology Ecology (3), Microbial Ecology (3), Applied Soil Ecology (1), Physiological and Molecular Plant Pathology (1)
 
 
 
