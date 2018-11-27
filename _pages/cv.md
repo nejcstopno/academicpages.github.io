@@ -12,38 +12,26 @@ redirect_from:
 Education
 ======
 * Diploma thesis, Microbial Ecology, University of Ljubljana, 2009
-* Ph.D in Microbiology and Immunology, University of Zurich, 2014 (expected)
+* Ph.D in Microbiology and Immunology, University of Zurich, 2014
 
 Work experience
 ======
 * 2017-present: Postdoctoral Scholar
   * Michigan State University
-  * Duties included: 
   * Supervisor: Ashley Shade
 
 * 2014-2017: Postdoctorla Scholar
   * University of Washington
-  * Duties included: 
   * Supervisor: David A Stahl
   
 * 2010-2014: Research Assistant
   * University of Zurich
-  * Duties included: 
   * Supervisor: Laure Weisskopf and Leo Eberl
   
 * 2009-2010: Research Assistant
   * University of Ljubljana
-  * Duties included: 
   * Supervisor: Ines Mandic-Mulec
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -62,6 +50,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awarded grants/fellowships
+======
+* Discovery project (ENIGMA internal funding call (US DOE)) entitled “Quantification of phenotypic heterogeneity in microbial communities"
+	$80,000
+* Travel grant from the Life Science Graduate School Zurich 
+	€600
+* Undergraduate scholarship from ERASMUS MUNDUS
+	€3500
   
 Service and memberships
 ======
