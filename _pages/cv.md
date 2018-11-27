@@ -41,13 +41,13 @@ Peer-reviewed publications
 Pre-prints and manuscripts in prepreration
 ====== 
 
-* Keara L Grady#, Jackson W Sorensen#, <b>Nejc Stopnisek</b>#, Ashley Shade. <i>Assembly and seasonality of core phyllosphere microbiota on perennial biofuel crops.</i> bioRxiv, https://doi.org/10.1101/446369 (equal contribution #)  (in review at Nature Communications)
+* Keara L Grady#, Jackson W Sorensen#, <b>Nejc Stopnisek</b>#, Ashley Shade. <i>Assembly and seasonality of core phyllosphere microbiota on perennial biofuel crops.</i> bioRxiv, [LINK](https://doi.org/10.1101/446369) (equal contribution #) (in review at Nature Communications)
 
-* <b>N Stopnisek</b>, M Dong, F von Netzer, N Elliot, YM Seah, J Hellerstein, K Hillesland, M Auer, P Walian, L Wu, J Zhao, S Turkarslan, M Biggin, N Baliga and D Stahl. “Functional characterization of adaptive mutations contributing to the improved productivity of a nascent microbial mutualism”. 
+* <b>N Stopnisek</b>, M Dong, F von Netzer, N Elliot, YM Seah, J Hellerstein, K Hillesland, M Auer, P Walian, L Wu, J Zhao, S Turkarslan, M Biggin, N Baliga and D Stahl. <i>Functional characterization of adaptive mutations contributing to the improved productivity of a nascent microbial mutualism.</i> 
 
-* Turkarslan S, <b>Stopnisek N</b>, Thompson A, Arens N, Hillesland K, Hardwicke J, Stahl DA, and Baliga NS. "Interspecies interactions during laboratory evolution of obligate syntrophic community."
+* Turkarslan S, <b>Stopnisek N</b>, Thompson A, Arens N, Hillesland K, Hardwicke J, Stahl DA, and Baliga NS. <i>Interspecies interactions during laboratory evolution of obligate syntrophic community.</i>
 
-* <b>N Stopnisek</b>, B Bezemek, A Shade. “The common bean (_Phaseolus vulgaris_ L.) core rhizosphere microbiota is well defined and abundant regardless of the US bean growing region.” 
+* <b>N Stopnisek</b>, B Bezemek, A Shade. <i>The common bean (_Phaseolus vulgaris_ L.) core rhizosphere microbiota is well defined and abundant regardless of the US bean growing region.</i> 
   
 Talks
 ======
@@ -66,11 +66,11 @@ Mentoring undergraduate students
 		 
 > Karly Kruger (MSU) 2018-present
 
-> Blake Bezemek (MSU) | 2017-present
+> Blake Bezemek (MSU) 2017-present
 
-> Wassem Syed (MSU) | 2017-2018 
+> Wassem Syed (MSU) 2017-2018 
 
-> Anjali Rupela (UW) |2016-2017 
+> Anjali Rupela (UW) 2016-2017 
 
 Awarded grants/fellowships
 ======
