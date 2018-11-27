@@ -31,13 +31,13 @@ Work experience
 * 2009-2010: Research Assistant
   * University of Ljubljana
   * Supervisor: Ines Mandic-Mulec
-  
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
   
 Talks
 ======
@@ -53,12 +53,9 @@ Teaching
 
 Awarded grants/fellowships
 ======
-* Discovery project (ENIGMA internal funding call (US DOE)) entitled “Quantification of phenotypic heterogeneity in microbial communities"
-   $80,000
-* Travel grant from the Life Science Graduate School Zurich
-   €600
-* Undergraduate scholarship from ERASMUS MUNDUS
-   €3500
+* Discovery project (ENIGMA internal funding call (US DOE)) entitled “Quantification of phenotypic heterogeneity in microbial communities"   $80,000
+* Travel grant from the Life Science Graduate School Zurich   €600
+* Undergraduate scholarship from ERASMUS MUNDUS   €3500
   
 Service and memberships
 ======
