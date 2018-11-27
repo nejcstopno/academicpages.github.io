@@ -1,6 +1,5 @@
 ---
 title: "Common bean (Phaseolus vulgaris) microbiome"
-excerpt: ""
 collection: research
 ---
 
