@@ -57,17 +57,17 @@ Talks
   
 Teaching and Mentoring
 ======
-|Systemic microbiology (Lab course, UZH)              | 2011 – 2012|
-|-----------------------------------------------------|------------|
-|Molecular biology and Microbiology (Lab course, UZH) | 2011 – 2013|
+Systemic microbiology (Lab course, UZH) | 2011 – 2012
+--- | --- 
+Molecular biology and Microbiology (Lab course, UZH) | 2011 – 2013
 
 Mentoring undergraduate students			 
-|Karly Kruger (MSU) |2018-present|
-|-------------------|------------|
-|Karly Kruger (MSU) |2018-present|
-|Blake Bezemek (MSU)|2017-present|
-|Wassem Syed (MSU)  |2017-2018   |
-|Anjali Rupela (UW) |2016-2017   |
+Karly Kruger (MSU) | 2018-present
+--- | ---
+Karly Kruger (MSU) | 2018-present
+Blake Bezemek (MSU) | 2017-present
+Wassem Syed (MSU) | 2017-2018 
+Anjali Rupela (UW) |2016-2017 
 
 
 Awarded grants/fellowships
