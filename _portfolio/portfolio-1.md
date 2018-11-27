@@ -11,6 +11,7 @@ Thus we initiated 3 projects to improve our understanding of common bean microbi
 	* succession on 3 different plant compartments - rhizosphere, endosphere (roots and leaves), phyllosphere 
 	* functional changes related to plant development and the role of plant exudates
 * __Comparing the symbiotic nitrogen fixation abilities in wild and domesticated common bean; does _Rhizobium_ diversity matter?__
+
 Methods: amplicon sequencing, GeoChip, qPCR, metagenomics, mass spectrometry, soil enzyme activities, soil respiration rates (SoilResp)
 
 <br/><img src='/images/bean.JPG'>
